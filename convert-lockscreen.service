@@ -1,0 +1,9 @@
+[Unit]
+Description=Convert files into appropriate lockscreens
+
+[Service]
+Type=simple
+ExecStart=/bin/sh -c "%h/bin/convert-for-screenlock.sh %h/.backgrounds/lockscreens/to-process/*"
+
+[Install]
+WantedBy=default.target
