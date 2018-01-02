@@ -1,4 +1,4 @@
-#Lock Screen Scripts
+# Lock Screen Scripts
 
 I made a few scripts to help with my lockscreen workflow. This is all currently SUPER hard coded, but hopefully will move away from that in time. This set of files allows me to download a picture I would like to make my lock screen, drop it in a particular directory, and have it entered into the rotation of lockscreens.
 
